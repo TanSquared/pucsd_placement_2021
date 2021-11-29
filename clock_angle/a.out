@@ -1,0 +1,8 @@
+Sample ./a.out 09 00   Output 90.00
+Sample ./a.out 03 30   Output 75.00 
+Sample ./a.out 05 00   Output 150.00 
+Sample ./a.out 08 45   Output 7.50
+
+Sample ./a.out 09 00 30 Output 180
+Sample ./a.out 03 30 45 Output 90
+Sample ./a.out 08 45 05 Output 120
