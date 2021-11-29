@@ -1,0 +1,39 @@
+Sample ./a.out 13     Output: 
+233
+Even fibonacci: 63245986
+
+Sample ./a.out 21     Output: 
+10946
+Even fibonacci: 6557470319842
+
+Sample ./a.out 31     Output: 
+1346269
+Even fibonacci: 12200160415121876738
+
+Sample ./a.out 47     Output: 
+2971215073
+Even fibonacci: 1233533820207347330
+
+Sample ./a.out 61     Output: 
+2504730781961
+Even fibonacci: 10918772188714576418
+
+Sample ./a.out 85     Output: 
+259695496911122585
+Even fibonacci: 2012361735007600354
+
+Sample ./a.out 3      Output: 
+2
+Even fibonacci: 34
+
+Sample ./a.out 10     Output: 
+55
+Even fibonacci: 832040
+
+Sample ./a.out 22     Output: 
+17711
+Even fibonacci: 27777890035288
+
+Sample ./a.out 26     Output: 
+121393
+Even fibonacci: 8944394323791464
