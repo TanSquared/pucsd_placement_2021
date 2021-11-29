@@ -1,0 +1,4 @@
+Input : ./a.out 50 Output: 35
+Input : ./a.out 1000 Output: 707
+Input : ./a.out 10000 Output: 7071
+Input : ./a.out 100000 Output: 26554
